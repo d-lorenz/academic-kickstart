@@ -17,19 +17,49 @@ subtitle = ""
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
-  name = "R"
-  description = "90%"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
   
 [[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  icon = "git"
+  icon_pack = "fab"
+  
+[[feature]]
+  icon = "dropbox"
+  icon_pack = "fab"
+  
+[[feature]]
+  icon = "firefox"
+  icon_pack = "fab"
+
+[[feature]]
+  icon = "github"
+  icon_pack = "fab"
+  
+[[feature]]
+  icon = "slack"
+  icon_pack = "fab"
+  
+[[feature]]
+  icon = "gitlab"
+  icon_pack = "fab"
+  
+[[feature]]
+  icon = "kaggle"
+  icon_pack = "fab"
+  
+[[feature]]
+  icon = "linux"
+  icon_pack = "fab"
+  
+[[feature]]
+  icon = "stack-overflow"
+  icon_pack = "fab"
+  
+[[feature]]
+  icon = "ubuntu"
+  icon_pack = "fab"
 
 +++
